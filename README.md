@@ -27,6 +27,7 @@ Antes de rodar o projeto, é necessário que o seguinte esteja instalado:
 ### 1. Clonar o repositório
  
 git clone https://github.com/caiodask/habitx.git
+
 cd habitax
  
 ### 2. Instalar as dependências
